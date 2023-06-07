@@ -1,3 +1,9 @@
+/* 
+    WA function called zero smaller() uses two arguments. Use 
+    return by reference to the function concept and set a smaller value 
+    to 0.
+*/
+
 #include <iostream>
 using namespace std;
 

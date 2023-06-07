@@ -1,3 +1,5 @@
+// WAP to add two matrices using default argument. 
+
 #include <iostream>
 using namespace std;
 
